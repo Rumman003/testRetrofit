@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+
+    <string-array name="nameOfCards">
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+    </string-array>
+
+    <string-array name="detailsOfCards">
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+    </string-array>
+
+    <string-array name="nothingOfCared">
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+        <item> Card 1</item>
+        <item> Card 2</item>
+        <item> Card 3</item>
+        <item> Card 4</item>
+        <item> Card 5</item>
+        <item> Card 6</item>
+        <item> Card 7</item>
+        <item> Card 8</item>
+        <item> Card 9</item>
+        <item> Card 10</item>
+    </string-array>
+</resources>
