@@ -12,5 +12,11 @@ public interface ApiInterface {
 
     public class anotherMethod(){
 
-    };
+    }
+
+
+    public  class AddedNew(){
+
+    }
+
 }
