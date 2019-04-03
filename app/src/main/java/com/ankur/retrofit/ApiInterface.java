@@ -9,4 +9,8 @@ public interface ApiInterface {
 
     @POST("/get_all_promotion")
     Call<List<detailsOfPromo>> getdetailsOfPromo();
+
+    public class anotherMethod(){
+
+    };
 }
