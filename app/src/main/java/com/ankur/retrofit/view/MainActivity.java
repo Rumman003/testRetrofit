@@ -85,7 +85,9 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(myadapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
+    }
 
-
+    public class test(){
+        new data;
     }
 }
